@@ -1,0 +1,63 @@
+body{
+}
+[class^=prrx_]{
+
+}
+.prrx_01 .imgarea{
+    width:100%;
+    height:100vh;
+    position:relative;
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bk_at_scl{
+    background-attachment: scroll !important;
+
+}
+.prrx_01 .into{
+    max-width:2000px;
+    margin:0 auto;
+}
+.prrx_01 .into .box{
+    width:60%;
+    background:#acaccd;
+    padding:1em;
+    position:relative;
+}
+.prrx_01 .into p{
+    line-height:5em;
+}
+
+.left_0{
+    left:0;
+}
+.right_0{
+    right:0;
+}
+
+.mr_0{
+    margin-right:0;
+}
+
+
+.bk_01{
+    background-image:url(https://www.nejigram.com/assets/img/animal/01-min.jpg);
+}
+.bk_02{
+    background-image:url(https://www.nejigram.com/assets/img/animal/02-min.jpg);
+}
+.bk_03{
+    background-image:url(https://www.nejigram.com/assets/img/animal/03-min.jpg);
+}
+.bk_04{
+    background-image:url(https://www.nejigram.com/assets/img/animal/04-min.jpg);
+}
+.bk_05{
+    background-image:url(https://www.nejigram.com/assets/img/animal/05-min.jpg);
+}
+.bk_06{
+    background-image:url(https://www.nejigram.com/assets/img/animal/06-min.jpg);
+}
